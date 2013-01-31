@@ -1,0 +1,6 @@
+[submodule "qorpent.kernel"]
+	path = qorpent.kernel
+	url = https://github.com/comdiv/qorpent.kernel.git
+[submodule "qorpent.sys"]
+	path = qorpent.sys
+	url = https://github.com/comdiv/qorpent.sys.git
